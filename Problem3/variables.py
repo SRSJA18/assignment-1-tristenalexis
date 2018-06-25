@@ -39,6 +39,10 @@ Expected output:
 
 
 # TODO 1. Create variables to hold the unique strings for the tic tac toe board.
-
+a = "  |  |"
+b = "--------"
+print(a)
 
 # TODO 2. Use print statements with variables to output a tic tac toe board.
+print(a)
+print(b)
